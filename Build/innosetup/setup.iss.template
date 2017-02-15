@@ -399,7 +399,7 @@ Name: "languages\skSK"; Description: "Slovenčina"; Types: full custom; Flags: d
 Name: "languages\slSI"; Description: "Slovenščina"; Types: full custom; Flags: disablenouninstallwarning; Check: hasLanguageGroup('2')
 Name: "languages\srRS"; Description: "Српски"; Types: full custom; Flags: disablenouninstallwarning; Check: hasLanguageGroup('5')
 Name: "languages\svSE"; Description: "Svenska"; Types: full custom; Flags: disablenouninstallwarning; Check: hasLanguageGroup('1')
-Name: "languages\trTR"; Description: "Türk"; Types: full custom; Flags: disablenouninstallwarning; Check: hasLanguageGroup('6')
+Name: "languages\trTR"; Description: "Türkçe"; Types: full custom; Flags: disablenouninstallwarning; Check: hasLanguageGroup('6')
 Name: "languages\ukUA"; Description: "Українська"; Types: full custom; Flags: disablenouninstallwarning; Check: hasLanguageGroup('5')
 Name: "languages\viVN"; Description: "Việt"; Types: full custom; Flags: disablenouninstallwarning; Check: hasLanguageGroup('e')
 Name: "languages\zhCN"; Description: "简体中文"; Types: full custom; Flags: disablenouninstallwarning; Check: hasLanguageGroup('a')
